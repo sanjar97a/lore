@@ -1,0 +1,486 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+nav{
+    width: 100%;
+    height: 80px;
+    padding: 0 73px;
+    display: flex;
+    align-items: center;
+    
+}
+.logo{
+   margin-right: 283px;
+}
+.collection{
+    display: flex;
+    list-style: none;
+}
+.iteam{
+    margin-right: 33px;
+}
+.thenew{
+    width: 1294px;
+    height: 550px;
+    border-radius: 32px;
+    background-color: rgba(220, 229, 226, 1);
+    margin-left: 120px;
+    margin-top: 28px;
+    display: flex;
+}
+.thenewphons{
+    width: 50%;
+    height: 100%;
+}
+.phones{
+    margin-left: 56px;
+    font-size: 58px;
+    margin-top: 145px;
+}
+.lorem{
+    margin-left: 56px;    
+    margin-top: 19px;
+}
+.explore{
+    width: 170px;
+    height: 50px;
+    border-radius: 200px;
+    margin-left: 56px;
+    background-color: rgba(220, 229, 226, 1);
+    margin-top: 30px;
+    border: none;
+    border: 1px solid black;
+}
+.shop{
+    text-align: center;
+    margin-top: 75px;
+    font-size: 42px;
+    font-weight: 500;
+}
+.loremipsun{
+    text-align: center;
+    margin-top: 9px;
+}
+.laptops{
+    width: 639px;
+    height: 472px;
+    margin-top: 55px;
+    margin-left: 73px;
+    box-shadow: 5px 5px 5px 5px wheat;
+    
+}
+.categories{
+    display: flex;
+}
+.laptops img{
+    margin-left: 42px;
+}
+.lapos{
+    margin-left: 537px;
+}
+.true{
+    margin-left: 405px;
+    font-size: 32px;
+}
+.your{
+    width: 312px;
+    height: 792px;
+    margin-left: 16px;
+    margin-top: 55px;
+    box-shadow: 5px 5px 5px 5px wheat;
+}
+.your img{
+    margin-top: 144px;
+    margin-left: 16px;
+}
+.phon{
+    text-align: center;
+    margin-top: 41px;
+}
+.yourto{
+    text-align: center;
+}
+.yout{
+    width: 312px;
+    height: 792px;
+    margin-left: 16px;
+    margin-top: 55px;
+    box-shadow: 5px 5px 5px 5px wheat; 
+}
+.nap{
+    text-align: center;
+    margin-top: 114px; 
+}
+.youto{
+    text-align: center;
+}
+.yout img{
+    margin-top: 42px;
+}
+.not{
+    width: 639px;
+    height: 270px;
+    margin-top: -240px;
+    margin-left: 73px;
+    box-shadow: 5px 5px 5px 5px wheat; 
+}
+.not img{
+    width: 381px;
+    height: 270px;
+    margin-left: 42px;
+
+}
+.wthch{
+    position: relative;
+    left: 550px;
+    top: -180px;
+}
+.notjust{
+    position: relative;
+    left: 500px;
+    top: -180px;
+}
+.seven{
+    text-align: center;
+    margin-top: 78px;
+    font-size: 42px;
+}
+.ournew{
+    text-align: center;
+    margin-top: 9px;
+}
+.macbook {
+    display: flex;
+}
+.macbook img{
+    width: 247px;
+    height: 214px;
+    margin-left: 101px;
+    margin-top: 59px;
+}
+.quia{
+    margin-left: 73px;
+    margin-top: 37px;
+}
+.aqua{
+    margin-left: 73px;
+    margin-top: 9px;
+    color: rgba(75, 75, 75, 1);
+}
+.usd{
+    margin-left: 73px;
+    margin-top: 25px;
+}
+.smartt{
+    margin-left: 70px; 
+    margin-top: 35px;
+}
+.dollorem{
+    margin-left: 70px; 
+    margin-top: 9px;
+    color: rgba(75, 75, 75, 1);
+}
+.macair{
+    margin-left: 70px; 
+    margin-top: 35px;
+}
+.veliet{
+    margin-left: 70px; 
+    margin-top: 9px;
+    color: rgba(75, 75, 75, 1);
+}
+.ipsum{
+    margin-left: 73px;
+    margin-top: 8px;
+}
+.dapi{
+    margin-left: 70px; 
+    margin-top: 35px;
+}
+.dipisci{
+    margin-left: 70px; 
+    margin-top: 9px;
+    color: rgba(75, 75, 75, 1);
+}
+.claasss{
+    text-align: center;
+    margin-top: 74px;
+    font-size: 42px;
+}
+.ournew{
+    text-align: center;
+    margin-top: 9px;
+}
+.limited{
+    display: flex;
+}
+.smartwhatch{
+    width: 413px;
+    height: 453px;
+    border-radius: 16px;
+    margin-top: 56px;
+    margin-left: 73px;
+    background: rgba(248, 249, 250, 1);
+    
+}
+.smartwhatch img{
+    width: 259px;
+    height: 250px;
+    margin-left: 77px;
+    margin-top: 30px;
+
+}
+.aaa{
+    text-align: center;
+    margin-top: 41px;
+    
+}
+.latesr{
+    text-align: center;
+    font-size: 28px;
+}
+.xplore{
+    width: 170px;
+    height: 50px;
+    border-radius: 200px;
+    margin-left: 111px;
+    background: rgba(248, 249, 250, 1);
+    margin-top: 30px;
+    border: none;
+    border: 1px solid black;
+}
+.light{
+    text-align: center;
+    margin-top: 41px;
+}
+.ideas{
+    text-align: center;
+    margin-top: 75px;
+}
+.edition{
+    text-align: center;
+    margin-top: 9px;
+}
+.wemake{
+    display: flex;
+}
+.easier{
+    margin-top: 56px;
+    margin-left: 76px;
+}
+.makeit{
+    margin-left: 45px;
+    margin-top: 70px;
+    font-size: 24px;
+}
+.raodd{
+    margin-left: 45px;
+    margin-top: 28px;
+    font-size: 24px;
+}
+.maeit{
+    margin-left: 45px;
+    margin-top: 28px;
+    font-size: 24px;
+}
+.mkeit{
+    margin-left: 45px;
+    margin-top: 28px;
+    font-size: 24px;
+}
+.see{
+    margin-top: 70px;
+    margin-left: 660px;
+    font-size: 24px;
+}
+.look{
+    text-align: center;
+    margin-top: 75px;
+    margin-left: -70px;
+}
+.button{
+    width: 650px;
+    height: 60px;
+    border: none;
+    margin-top: 24px;
+    margin-left: 395px;
+    border-radius: 20px;
+}
+.button input{
+    width: 100%;
+    height: 60px;
+    border-radius: 100px;
+    background: rgba(248, 249, 250, 1);
+    border: 1px solid dodgerblue;
+    padding-left: 90px;
+}
+.abbrev{
+    display: flex;
+    
+}
+.ipxon{
+    margin-left: 449px;
+    margin-top: 18px;
+    
+}
+.pxone{
+    width: 90px;
+    height: 42px;
+    border-radius: 200px;
+    border: 1px solid dodgerblue;
+}
+.xarger{
+    width: 98px;
+    height: 42px;
+    border-radius: 200px;
+    border: 1px solid dodgerblue;
+}
+.fift{
+    width: 68px;
+    height: 42px;
+    border-radius: 200px;
+    border: 1px solid dodgerblue;
+}
+.poople{
+    width: 142px;
+    height: 42px;
+    border-radius: 200px;
+    border: 1px solid dodgerblue;
+}
+.aybord{
+    width: 109px;
+    height: 42px;
+    border-radius: 200px;
+    border: 1px solid dodgerblue;
+}
+.pro13{
+    width: 118px;
+    height: 42px;
+    border-radius: 200px;
+    border: 1px solid dodgerblue;
+    margin-top: 7px;
+    margin-left: 50px;  
+}
+.pone12{
+    width: 109px;
+    height: 42px;
+    border-radius: 200px;
+    border: 1px solid dodgerblue;
+    margin-top: 7px;    
+}
+.botpol{
+    width: 91px;
+    height: 42px;
+    border-radius: 200px;
+    border: 1px solid dodgerblue;
+    margin-top: 7px;
+}
+.bileo{
+    width: 89px;
+    height: 42px;
+    border-radius: 200px;
+    border: 1px solid dodgerblue;
+    margin-top: 7px;
+}
+.miss{
+    width: 935px;
+    height: 450px;
+    background-color:rgba(220, 229, 226, 1);
+    margin-top: 68px;
+    margin-left: 253px;
+    border-radius: 16px;
+}
+.missa{
+    text-align: center;
+    padding-top: 47px;
+    font-size: 42px;
+
+}
+.signap{
+    text-align: center;
+    margin-top: 9px;
+}
+.miss img{
+    width: 233px;
+    height: 200px;
+    margin-left: 351px;
+    margin-top: 14px;
+}
+.inop{
+    width: 285px;
+    height: 50px;
+    background:rgba(220, 229, 226, 1);
+    position: relative;
+    top: 44px;
+    left: -320px;
+    border: none;
+    border: 1px solid black;
+    border-radius: 54px 0px 0px 54px;
+    
+}
+.topn{
+    width: 115px;
+    height: 50px;
+    border-radius: 0px 200px 200px 0px;
+    border: none;
+    color: aliceblue;
+    background:black;
+    position: relative;
+    left: 550px;
+    top: -6px;
+}
+.tione{
+    width: 100%;
+    height: 378px;
+    background: #F8F9FA;
+    display: flex;
+}
+.califor{
+    margin-left: 73px;
+    padding-top: 55px;
+}
+.forup{
+    margin-left: 73px;
+    padding-top: 19px;
+}
+.futr{
+    display: flex;
+
+    margin-top: 50px;
+
+}
+.image{
+    padding-top: 15px;
+    list-style: none;
+}
+.ull{
+    margin-left: 100px;
+}
+.bbb{
+    width: 90%;
+    height: 1px;
+    border: 1px solid rgba(220, 229, 226, 1) ;
+    position: relative;
+    top: -90px;
+    left: 100px;
+}
+.made{
+    margin-left: 73px;
+    margin-top: -30px;
+}
+.azwedo{
+    margin-left: 150px;
+    margin-top: -18px;
+}
+.power{
+   
+    margin-left: 1200px;
+    margin-top: -18px;
+}
+.azwed{
+    margin-top: -18px;
+    margin-left: 1310px;
+}
